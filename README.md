@@ -40,7 +40,7 @@ Test the component by rendering it with hardcoded data inside the `App` componen
 
 ## Wave 2
 
-For wave 2, you will implement the `Timeline` component.  The `Timeline` component will take one prop, `events`, an array of JavaScript objects.  The `render` function will use the array to render a set of `TimelineEvent` components.
+For wave 2, you will implement the `Timeline` component. The `Timeline` component will take one prop, `events`, an array of JavaScript objects. The functional `Timeline` component will use the array to render a set of `TimelineEvent` components.
 
 Then read in the `/src/data/timeline.json` file into an array of objects in `/src/App.js`.  In the `render` function of the `App` component, render a `TimeLine` component using the array of objects as the `events` prop.
 
