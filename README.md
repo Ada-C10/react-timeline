@@ -16,7 +16,7 @@ We have provided you an initial Application Skeleton generated with `create-reac
 - `Timeline` - This component will take a list of timeline events as a prop and render a list of `TimelineEvent` components.
 - `App` - This component is the traditional outer component of the React App. The App component will read in the data from the JSON file and pass the timeline events to the `Timeline` component which it will contain.
 
-Your job is to implement the `render` functions of each component.  An effective strategy could be to implement each component individually testing their output on the screen with hard-coded prop data before trying to integrate the entire app.
+Your job is to implement each component.  An effective strategy could be to implement each component individually testing their output on the screen with hard-coded prop data before trying to integrate the entire app.
 
 **We will be doing a review of this material first thing on Tuesday (Nov. 27th)**
 
